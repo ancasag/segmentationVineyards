@@ -1,6 +1,6 @@
 
 
-## Model Zoo
+## Model
 
 The trained models are available in the format used by each framework, and distributed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 
